@@ -7,13 +7,16 @@ The goal of this project is advise a client and potential theatrical director, L
 
 # Analysis and Challenges
 
-Analysis for this project began by getting to know the dataset provided for Kickstarter campaigns launched from 2009 to 2017. Our client wants to know:
+Analysis for this project began by getting to know the dataset provided for Kickstarter campaigns launched from 2009 to 2017. Our client would like to answer two questions:
 
 1. Is there an optimal time of year to start a theatrical Kickstarter campaigns?
 2. How do the funding goals for a play effect the success of the Kickstarter campaign?
 
+The data provided contains the information we need but not in the format to easily create graphical representations for quick reference. To answer both questions, I began by generating a "Years" column to the worksheet by extracting it out of the "Date Created Conversion" column in the orignal data. From this I could create a Pivot table to see theater campaign outcomes based on their launch date. 
+
 ## Analysis of Outcomes Based on Launch Date
 
+![Outcomes Based on Launch Date](https://github.com/jp3tty/Module-1-Challenge/blob/main/Theater_Outcome_vs_Launch.png)
 
 
 ## Analysis of Outcomes Based on Goals
