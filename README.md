@@ -21,6 +21,9 @@ The data provided contains the information we need but not in the format to easi
 
 ## Analysis of Outcomes Based on Goals
 
+![Outcomes Based on Goal](https://github.com/jp3tty/Module-1-Challenge/blob/main/Outcomes%20Based%20on%20Goal.png)
+
+
 ## Challenges and Difficulties Encountered
 
 # Results
