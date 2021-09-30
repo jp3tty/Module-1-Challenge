@@ -14,7 +14,7 @@ Analysis for this project began by getting to know the dataset provided for Kick
 
 ## Analysis of Outcomes Based on Launch Date
 
-The data provided contains the information we need but not in the format to easily create graphical representations for quick reference. To answer both questions, I began by the years into a "Years" column on the worksheet by extracting it from the "Date Created Conversion" column in the orignal data. Using the years I could create a Pivot table to see theater campaign outcomes based on their launch date that is capable of filtering per year and parent category. Successful, canceled, and failed outcomes 
+The data provided contains the information we need but not in the format to easily create graphical representations for quick reference. To answer both questions, I began by the years into a "Years" column on the worksheet by extracting it from the "Date Created Conversion" column in the orignal data. Using the years I could create a Pivot table to see theater campaign outcomes based on their launch date that is capable of filtering per year and parent category. Successful, canceled, and failed Theater outcomes were plotted in a Pivot chart to communicate with the client 
 
 ![Outcomes Based on Launch Date](https://github.com/jp3tty/Module-1-Challenge/blob/main/Theater_Outcome_vs_Launch.png)
 
