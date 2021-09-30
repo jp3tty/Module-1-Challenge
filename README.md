@@ -9,10 +9,10 @@ The goal of this project is to advise a client, Louise (a potential theater dire
 
 ## Analysis and Challenges
 
-Analysis for this project began by getting to know the dataset provided for Kickstarter campaigns launched from 2009 to 2017. Our client would like to answer two questions:
+Analysis for this project began by getting to know the dataset provided for Kickstarter campaigns launched from 2009 to 2017. Our client would like to answer these questions:
 
-1. Is there an optimal time of year to start a theatrical Kickstarter campaigns?
-2. How do the funding goals for a play effect the success of the Kickstarter campaign?
+  * Is there an optimal time of year to start a theatrical Kickstarter campaigns?
+  * How do the funding goals for a play effect the success of the Kickstarter campaign?
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -34,3 +34,19 @@ Successful in blue, failed are in orange, and canceled in grey.
 A stand-out difficulty occured when working with the Pivot table for "Outcomes Based on Goals." After working through the Module and manipulating the data in a variety of ways, Excel's data cache had issues referencing the proper values for the data I wanted to work with. The results was a chart that did not match what was expected in the challenge. After a fair amount of troubleshooting, a solution was discovered by preforming a "refresh" directly to the Pivot table. 
 
 ## Results
+
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+1. May appears to be the best time of year to launch Kickstarter campaigns for theater productions. Most of these campaigns are launch during this month, with a decline through December.
+2. Theater production Kickstarter campaigns are successful overall. Every month on the chart shows there are more successful campaigns than failed, and the worst time to launch a campaign is December where successful and failed campaigns are near equivalent.
+
+What can you conclude about the Outcomes based on Goals?
+
+The most successful percentages of outcomes are projects with funding goals that are less than $5,000 or between $35,000 and $45,000.
+
+What are some limitations of this dataset?
+
+
+
+What are some other other possible tables and/or graphs that we could create?
+
