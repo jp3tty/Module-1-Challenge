@@ -7,7 +7,7 @@ Performing analysis on Kickstarter campaigns using Excel.
 
 The goal of this project is to advise a client, Louise (a potential theater director), for the best time of year to launch a Kickstarter campaign to fund her upcoming play, Fever. This exercise was an introduction to the Excel's ability to use Pivot Tables, Pivot Charts, Conditional Fomatting, and a number of other functions to perform statistical analysis and generate graphical representations of data.
 
-# Analysis and Challenges
+## Analysis and Challenges
 
 Analysis for this project began by getting to know the dataset provided for Kickstarter campaigns launched from 2009 to 2017. Our client would like to answer two questions:
 
