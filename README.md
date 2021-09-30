@@ -1,5 +1,7 @@
-# Kickstarting with Excel (Module-1-Challenge)
+# Kickstarting with Excel
 Performing analysis on Kickstarter campaigns using Excel.
+
+## Overview of Project
 
 ### Purpose
 
