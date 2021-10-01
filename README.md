@@ -46,7 +46,10 @@ The most outcomes are projects with funding goals that are less than $5,000 or b
 
 What are some limitations of this dataset?
 
-
+There may be limitation due to the size of the dataset. At just over 4000 data points, I assume we are missing a great deal of information for our analysis, especially considering the international reach of this data.
 
 What are some other other possible tables and/or graphs that we could create?
+
+We could make a variety of different charts based on the success, failure, and cancelation of any other subcategories. In addition, we could chart comparisons between the subcategories to determine how well each preform.
+
 
