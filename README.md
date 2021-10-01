@@ -46,7 +46,7 @@ The most outcomes are projects with funding goals that are less than $5,000 or b
 
 What are some limitations of this dataset?
 
-There may be limitation due to the size of the dataset. At just over 4000 data points, I assume we are missing a great deal of information for our analysis, especially considering the international reach of this data.
+There may be limitation due to the size of the dataset. At just over 4000 data points, I assume we are missing a great deal of information for our analysis, especially considering the international reach of this data and eight year timespan.
 
 What are some other other possible tables and/or graphs that we could create?
 
