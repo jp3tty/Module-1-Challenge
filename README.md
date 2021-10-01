@@ -18,14 +18,14 @@ Analysis for this project began by getting to know the dataset provided for Kick
 
 The data provided contains the information we need, but not in the format to easily create graphical representations for quick reference. To begin answering the clients questions, I created a "Years" column by extracting it from the "Date Created Conversion" data given in the orignal set (this was initially provided as Unix timestamps). Using the years, a Pivot table and Pivot chart were generated to see the theater campaign outcomes based on their launch dates. The table filters the "theater" Parent category and removes the "live" outcomes to reflect the clients interests. The chart below shows the graphical representation of the data with "successful" in blue, "failed" in orange, and "canceled" in yellow.
 
-![Outcomes Based on Launch Date](https://github.com/jp3tty/Module-1-Challenge/blob/main/Theater_Outcome_vs_Launch.png)
+![Outcomes Based on Launch Date](https://github.com/jp3tty/Module-1-Challenge/blob/main/Resources/Theater_Outcome_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 To provide the client with information on how the outcomes were influenced by their funding goals, I created the chart below by comparing a given "Outcome" percentage against a campaign goal. To keep the chart from appearing too busy, the entire datasets was filtered to consider only plays, due to the clients interests, and the funding goals were reduced to 12 monetary ranges (valued in US dollars). This analysis can be seen in the chart below.
 
-![Outcomes Based on Goal](https://github.com/jp3tty/Module-1-Challenge/blob/main/Outcomes%20Based%20on%20Goal.png)
+![Outcomes Based on Goal](https://github.com/jp3tty/Module-1-Challenge/blob/main/Resources/Outcomes%20Based%20on%20Goal.png)
 
 Successful in blue, failed are in orange, and canceled in grey.
 
